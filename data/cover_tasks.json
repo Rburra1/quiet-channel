@@ -1,0 +1,98 @@
+[
+  {
+    "type": "summary",
+    "content": "The mitochondrion is a double-membrane-bound organelle found in most eukaryotic cells. It generates most of the cell's supply of adenosine triphosphate, used as a source of chemical energy."
+  },
+  {
+    "type": "summary",
+    "content": "Medieval manuscripts were produced in monasteries by scribes, often illustrated with illuminations. They were written on parchment and were extraordinarily expensive, representing months of labor."
+  },
+  {
+    "type": "summary",
+    "content": "Ocean currents transport heat from the equator toward the poles, strongly regulating regional climates. The Atlantic Meridional Overturning Circulation is one of the most important of these current systems."
+  },
+  {
+    "type": "summary",
+    "content": "Classical economics assumes that markets tend toward equilibrium when prices adjust freely. Behavioral economics complicates this picture by showing that real humans deviate systematically from rational-actor predictions."
+  },
+  {
+    "type": "summary",
+    "content": "Bees communicate the location of food sources through a behavior called the waggle dance. The angle and duration of the dance encode direction relative to the sun and distance from the hive."
+  },
+  {
+    "type": "summary",
+    "content": "The printing press, developed in Europe by Johannes Gutenberg in the mid-15th century, dramatically lowered the cost of producing books and contributed to the spread of literacy and the Reformation."
+  },
+  {
+    "type": "review",
+    "content": "a pair of noise-canceling wireless headphones priced at $280"
+  },
+  {
+    "type": "review",
+    "content": "a minimalist mechanical keyboard with low-profile switches"
+  },
+  {
+    "type": "review",
+    "content": "a portable espresso maker designed for camping trips"
+  },
+  {
+    "type": "review",
+    "content": "a stand-up desk with a motorized height adjustment"
+  },
+  {
+    "type": "review",
+    "content": "a beginner's acoustic guitar sold under $200"
+  },
+  {
+    "type": "review",
+    "content": "an e-reader with a warm-tinted front light"
+  },
+  {
+    "type": "explain",
+    "content": "how DNS resolution works on the internet"
+  },
+  {
+    "type": "explain",
+    "content": "what quantum entanglement means without using math"
+  },
+  {
+    "type": "explain",
+    "content": "why interest rates affect housing prices"
+  },
+  {
+    "type": "explain",
+    "content": "how vaccines train the immune system"
+  },
+  {
+    "type": "explain",
+    "content": "what a compiler actually does"
+  },
+  {
+    "type": "explain",
+    "content": "how tides are caused by the moon and sun"
+  },
+  {
+    "type": "recipe",
+    "content": "a weeknight stir-fry with what's in the fridge"
+  },
+  {
+    "type": "recipe",
+    "content": "homemade pizza dough that rises overnight"
+  },
+  {
+    "type": "recipe",
+    "content": "a simple dal that a beginner can pull off"
+  },
+  {
+    "type": "recipe",
+    "content": "chicken broth made from a leftover carcass"
+  },
+  {
+    "type": "recipe",
+    "content": "a salad dressing that won't separate in the jar"
+  },
+  {
+    "type": "recipe",
+    "content": "scrambled eggs that stay creamy, not rubbery"
+  }
+]
